@@ -300,5 +300,5 @@ class Game:
         pygame.display.flip()
     
 
-if __name__ == "__main__":
-    Game()
+# if __name__ == "__main__":
+#     Game()
